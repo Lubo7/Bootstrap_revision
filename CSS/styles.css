@@ -1,0 +1,39 @@
+body {
+    background-color: blue;
+}
+
+.container {
+    background-color: yellow;
+    height: 80vh;
+    margin-top: 10vh;
+}
+
+.row {
+    height: 33%;
+}
+
+.r-sup {
+    height: 10vh;
+    background-color: brown;
+}
+
+.r-mid {
+    height: 30vh;
+    background-color: red;
+}
+
+.r-inf {
+    height: 20vh;
+}
+
+.c-izq {
+    background-color: green;
+}
+
+.c-mid {
+    background-color: hotpink;
+}
+
+.c-der {
+    background-color: lawngreen;
+}
